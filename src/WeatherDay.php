@@ -7,7 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace xumj\WeatherPackage;
+namespace xumj\OpenWeatherClient;
 
 class WeatherDay
 {

@@ -7,7 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace xumj\WeatherPackage;
+namespace xumj\OpenWeatherClient;
 require 'vendor/autoload.php';
 require 'Location.php';
 require 'WeatherDay.php';
